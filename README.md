@@ -1,1 +1,0 @@
-# suvaye-dictnary

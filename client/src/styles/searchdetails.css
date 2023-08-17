@@ -1,0 +1,41 @@
+.details_con {
+  margin-top: 50px;
+  width: 100%;
+  min-height: 300px;
+  height: fit-content;
+  padding: 20px 25px;
+  border-radius: 15px;
+  border: 2px solid #ced9e3;
+}
+.details_icon_header {
+  display: flex;
+  gap: 10px;
+}
+
+.middle_section {
+  display: flex;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.middle_section button {
+  padding: 5px 15px;
+  border-radius: 5px;
+  border: 0;
+  outline: 0;
+}
+
+/* select 1sr button */
+/* .middle_section button:nth-child(1) {
+  background-color: #000000;
+  color: #fff;
+} */
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.details li {
+  color: #000000e0;
+}

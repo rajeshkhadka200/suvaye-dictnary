@@ -1,0 +1,22 @@
+.home_container {
+  margin: 50px 0;
+}
+.upper_con {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.upper_con .search_icon {
+  position: absolute;
+  left: 15px;
+}
+.upper_con input {
+  width: 100%;
+  background: #ced9e3;
+  border: 0;
+  outline: 0;
+  padding: 15px;
+  border-radius: 10px;
+  padding-left: 40px;
+}
